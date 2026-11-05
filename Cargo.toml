@@ -1,0 +1,13 @@
+[package]
+name = "termix"
+version = "0.1.0"
+edition = "2024"
+description = "A Rust library for terminal colors and ANSI styling."
+license = "MIT"
+repository = "https://github.com/chiru-chintha/termix"
+readme = "README.md"
+keywords = ["terminal", "termix", "colors", "cli"]
+categories = ["command-line-interface"]
+
+[dependencies]
+
